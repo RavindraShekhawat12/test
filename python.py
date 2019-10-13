@@ -1,2 +1,4 @@
 print("hi")
-print("Welxome to Github")
+
+i =1
+print(i)
